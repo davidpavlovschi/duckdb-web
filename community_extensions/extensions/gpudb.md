@@ -103,10 +103,10 @@ docs:
       radix-opt path; for the bottom of the curve CPU still wins (e.g.,
       TPC-H SF10 l_quantity at 50 unique groups: CPU 14× faster).
 
-extension_star_count: 9
-extension_star_count_pretty: 9
-extension_download_count: 13
-extension_download_count_pretty: 13
+extension_star_count: 11
+extension_star_count_pretty: 11
+extension_download_count: 25
+extension_download_count_pretty: 25
 image: '/images/community_extensions/social_preview/preview_community_extension_gpudb.png'
 layout: community_extension_doc
 ---

@@ -37,10 +37,10 @@ docs:
     the referenced inner file in GDAL or rasterio without re-downloading
     the archive.
 
-extension_star_count: 6
-extension_star_count_pretty: 6
-extension_download_count: 899
-extension_download_count_pretty: 899
+extension_star_count: 7
+extension_star_count_pretty: 7
+extension_download_count: 818
+extension_download_count_pretty: 818
 image: '/images/community_extensions/social_preview/preview_community_extension_cozip.png'
 layout: community_extension_doc
 ---
